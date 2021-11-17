@@ -181,46 +181,7 @@ class MovieDetails extends StatelessWidget {
                                               .toList()
                                               .cast<Widget>(),
                                         )
-                                        // Expanded(
-                                        //   child: GridView.builder(
-                                        //       physics:
-                                        //           NeverScrollableScrollPhysics(),
-                                        //       shrinkWrap: true,
-                                        //       itemCount: value.genrelist.length,
-                                        //       gridDelegate:
-                                        //           SliverGridDelegateWithFixedCrossAxisCount(
-                                        //               childAspectRatio:
-                                        //                   (1 / .4),
-                                        //               crossAxisCount: 3),
-                                        //       itemBuilder: (context, index) {
-                                        //         return Padding(
-                                        //           padding:
-                                        //               const EdgeInsets.all(8.0),
-                                        //           child: Container(
-                                        //             decoration: BoxDecoration(
-                                        //               borderRadius:
-                                        //                   BorderRadius.circular(
-                                        //                       999),
-                                        //               color: Colors.grey
-                                        //                   .withOpacity(0.32),
-                                        //             ),
-                                        //             child: Padding(
-                                        //               padding: const EdgeInsets
-                                        //                       .symmetric(
-                                        //                   vertical: 5,
-                                        //                   horizontal: 10),
-                                        //               child: Center(
-                                        //                 child: Txt(
-                                        //                   text: value
-                                        //                       .genrelist[index],
-                                        //                   fsize: 7,
-                                        //                 ),
-                                        //               ),
-                                        //             ),
-                                        //           ),
-                                        //         );
-                                        //       }),
-                                        // )
+                                     
                                       ],
                                     ),
                                   ],
