@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/bk/movieapp/movieapp_project/BuildConfig.java
+ com.bk.movieapp.movieapp_project.BuildConfig
